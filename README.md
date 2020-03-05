@@ -6,7 +6,7 @@
 1. Θα υπάρχει κάποιου είδους style στην σελίδα
 2. Θα προσθέτετε δυναμικά μέσα στην λίστα items
 ## Προετοιμασία
-1. Κατεβάστε το git στον υπολογιστή σας
+1. Κατεβάστε το git/github desktop στον υπολογιστή σας
 2. Δημιουργήστε ένα github repository
 3. [Προσθέστε με ως collaborator](https://help.github.jp/enterprise/2.11/user/articles/inviting-collaborators-to-a-personal-repository/) (gsakel5@gmail.com)
 ## Χρήσιμες εντολές github για το Github
