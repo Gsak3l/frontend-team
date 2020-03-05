@@ -1,5 +1,5 @@
 ## ΑΣΚΗΣΗ 1 - Δημιουργία ενός [todo list](https://gsak3l-todolist.netlify.com/)
-![Image of Yaktocat](https://ibin.co/5EawsjhbeIvO.png)
+![Image of Yaktocat](https://ibin.co/5EbkcpGzBSlV.png)
 ## Στόχος
 ###### Να δημιουργήσετε ένα todo list με html, css, javascript, ώστε να εξοικειωθείτε με το καθένα από αυτά
 ## Να τηρούνται τα παρακάτω
