@@ -9,7 +9,7 @@
 1. Κατεβάστε το git/github desktop στον υπολογιστή σας
 2. Δημιουργήστε ένα github repository
 3. [Προσθέστε με ως collaborator](https://help.github.jp/enterprise/2.11/user/articles/inviting-collaborators-to-a-personal-repository/) (gsakel5@gmail.com)
-## Χρήσιμες εντολές github για το Github
+## Χρήσιμες εντολές για το Github
 ```
 $ git init
 $ git add .
